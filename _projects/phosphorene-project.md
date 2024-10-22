@@ -9,7 +9,7 @@ description: |
 layout: project
 image: /img/projects/gongyi.jpg
 last-updated: 2024-08-02
-link:https://baijiahao.baidu.com/s?id=1785377319909198973
+link: https://baijiahao.baidu.com/s?id=1785377319909198973
 ---
 
 ## 简介 Introduction
