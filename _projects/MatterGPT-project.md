@@ -5,8 +5,7 @@ notitle: false
 
 description: 
 
-people:
-  - Luka Modric
+
 
 
 layout: project
