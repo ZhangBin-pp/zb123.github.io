@@ -8,7 +8,7 @@ description: |
 layout: project
 image: /img/projects/reci.jpg
 last-updated: 2024-08-08
-link：https://baike.baidu.com/item/%E7%9B%A7%E5%8D%A1%C2%B7%E8%8E%AB%E5%BE%B7%E9%87%8C%E5%A5%87/3311744
+link:https://baike.baidu.com/item/%E7%9B%A7%E5%8D%A1%C2%B7%E8%8E%AB%E5%BE%B7%E9%87%8C%E5%A5%87/3311744
 ---
 
 ## 简介 Introduction
