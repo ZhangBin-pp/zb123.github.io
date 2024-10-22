@@ -1,13 +1,12 @@
 ---
-title: 新型OLED材料的高通量量子化学预测与筛选 Discovery of new organic light-emitting diode (OLED) materials with high-throughput screening
+title: 生涯初期，莫德里奇被克罗地亚豪门萨格勒布迪纳摩足球俱乐部相中，由此正式开启了其职业生涯之路。从2005-06赛季开始，莫德里奇凭借其自身出色的表现很快奠定了在萨格勒布迪纳摩阵中的主力位置，球队也与他签署了一份为期长达10年的合同。2005-06、2006-07、2007-08赛季，莫德里奇帮助球队连夺3届克罗地亚联赛冠军，自己也于2007年、2008年两度被评选为克罗地亚足球先生。
 
 notitle: false
 
 description: |
 
-people:
-  - profx
-  - chenxi
+
+    
 
 layout: project
 image: /img/projects/oled.png
