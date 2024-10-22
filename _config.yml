@@ -1,5 +1,5 @@
-name: 肖航课题组  Xiao Research Group
-url: https://xiaohang007.github.io/
+name: 卢卡·莫德里奇  Luka Modric
+url: https://zb123.github.io/
 
 exclude: [bibble, README.md, Makefile, screenshot.png]
 
@@ -12,11 +12,11 @@ encoding: utf-8
 # Sections on the "people" page.
 roles:
   - key: faculty
-    name: 教师 Faculty
+    name: 个人 He
   - key: grad
-    name: 研究生 Graduate Students
+    name: 队友 Teammate
   - key: ugrad
-    name: 本科生 Undergraduate Students
+    name: 俱乐部 club
   - key: collab
     name: 合作者 Collaborators
 
