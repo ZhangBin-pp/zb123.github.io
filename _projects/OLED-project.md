@@ -10,10 +10,9 @@ description:
 
 layout: project
 image: /img/projects/sagele.png
-last-updated: 2020-01-26
-link:https://baike.baidu.com/item/%E7%9B%A7%E5%8D%A1%C2%B7%E8%8E%AB%E5%BE%B7%E9%87%8C%E5%A5%87/3311744
+last-updated: 2024-08-08
+link: https://baike.baidu.com/item/%E7%9B%A7%E5%8D%A1%C2%B7%E8%8E%AB%E5%BE%B7%E9%87%8C%E5%A5%87/3311744
 ---
 
 ## 简介 Introduction
-
 生涯初期，莫德里奇被克罗地亚豪门萨格勒布迪纳摩足球俱乐部相中，由此正式开启了其职业生涯之路。从2005-06赛季开始，莫德里奇凭借其自身出色的表现很快奠定了在萨格勒布迪纳摩阵中的主力位置，球队也与他签署了一份为期长达10年的合同。2005-06、2006-07、2007-08赛季，莫德里奇帮助球队连夺3届克罗地亚联赛冠军，自己也于2007年、2008年两度被评选为克罗地亚足球先生。
