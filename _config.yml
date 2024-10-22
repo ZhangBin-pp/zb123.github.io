@@ -12,7 +12,7 @@ encoding: utf-8
 # Sections on the "people" page.
 roles:
   - key: faculty
-    name: 个人 He
+    name: 个人 Person
   - key: grad
     name: 教练 Coach
   - key: ugrad
