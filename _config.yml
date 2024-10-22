@@ -16,7 +16,7 @@ roles:
   - key: grad
     name: 队友 Teammate
   - key: ugrad
-    name: 俱乐部 club
+    name: 教练 Coach
   - key: collab
     name: 合作者 Collaborators
 
@@ -34,9 +34,9 @@ collections:
 
 # Navigation bar links.
 navigation:
-  - title: zzz Home
+  - title: 个人介绍 Home
     link: /
-  - title: 科研项目 Research
+  - title: 职业生涯 Career
     link: /research.html
-  - title: 论文 Publications
+  - title: 奖项 Awords
     link: /publications.html
