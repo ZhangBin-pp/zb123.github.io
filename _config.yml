@@ -14,11 +14,9 @@ roles:
   - key: faculty
     name: 个人 He
   - key: grad
-    name: 队友 Teammate
-  - key: ugrad
     name: 教练 Coach
   - key: collab
-    name: 合作者 Collaborators
+    name: 队友 Teammate
 
 
 # Number of news stories on the front page.
