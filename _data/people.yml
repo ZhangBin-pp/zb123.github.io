@@ -1,13 +1,13 @@
 
 
 
-profx:
-    display_name: "肖航  Hang Xiao"
-    github: xiaohang007
+Luka Modric:
+    display_name: "卢卡·莫德里奇"
+    github: zb123
     role: faculty
-    image: /img/people/hang.jpg
-    bio: 助理教授  Assistant Professor
-    webpage: "https://scholars.ln.edu.hk/en/persons/hang-xiao"
+    image: /img/people/mdlq.jpg
+    bio: 足球运动员 Football player
+    webpage: "https://baike.baidu.com/item/%E7%9B%A7%E5%8D%A1%C2%B7%E8%8E%AB%E5%BE%B7%E9%87%8C%E5%A5%87/3311744"
 
 scott:
     display_name: "Scott Summers"
