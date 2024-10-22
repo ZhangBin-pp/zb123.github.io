@@ -1,18 +1,12 @@
 ---
-title: 反常水解反应 Abnormal hydrolysis of ions
+title: 2006年3月，莫德里奇在对阵阿根廷的友谊赛中完成克罗地亚国家男子足球队处子秀。6月，莫德里奇在2006年德国世界杯小组赛克罗地亚对阵日本和澳大利亚的比赛中替补上场 。
 
 notitle: false
 
 description: |
-  纳米水团簇中的离子水解反应研究 Hydrolysis of ions in nanoscale water clusters: a mechanism study
+  
 
-people:
-  - han
-  - xiaoyang
-  - yayun
-  - juzheng
-  - profx
-  - chenxi
+
 
 layout: project
 image: /img/projects/hydrolysis.png
