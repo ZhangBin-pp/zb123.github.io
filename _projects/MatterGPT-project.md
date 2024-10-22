@@ -1,25 +1,19 @@
 ---
-title: MatterGPT:a GPT2-based large language model for multi-property inverse design of crystal structures.
+title: 1985年9月9日，卢卡·莫德里奇出生在扎达尔，童年时期，莫德里奇便与足球产生了不解之缘。但由于战争的爆发，莫德里奇一家人就开始了颠沛流离的逃亡生活，最终在一家作为难民营的大旅馆安顿了下来。艰难的生活一度使莫德里奇放弃足球。
 
 notitle: false
 
 description: |
 
 people:
-  - chenyan
-  - profx
-  - chenxi
+  - Luka Modric
+
 
 layout: project
-image: /img/projects/MatterGPT.jpg
+image: /img/projects/zaonian.jpg
 last-updated: 2024-08-08
-link: https://arxiv.org/abs/2408.07608
+link: (https://baike.baidu.com/item/%E7%9B%A7%E5%8D%A1%C2%B7%E8%8E%AB%E5%BE%B7%E9%87%8C%E5%A5%87/3311744)
 ---
 
 ## 简介 Introduction
-Features
-Inverse Design from Properties to Structures: Input target band gap and formation energy to generate crystal structures that match these properties.
-SLICES Encoding: Utilizes SLICES (Simplified Line-Input Crystal-Encoding System) encoding to represent crystal structures.
-Visualization: Generated structures can be intuitively presented through 3D visualization.
-Structure Analysis: Provides detailed information about the generated structures, including chemical formula, lattice parameters, etc.
-CIF File Export: Download Crystallographic Information Files (CIF) of generated structures for further analysis and use.
+1985年9月9日，卢卡·莫德里奇出生在扎达尔，童年时期，莫德里奇便与足球产生了不解之缘。但由于战争的爆发，莫德里奇一家人就开始了颠沛流离的逃亡生活，最终在一家作为难民营的大旅馆安顿了下来。艰难的生活一度使莫德里奇放弃足球。
